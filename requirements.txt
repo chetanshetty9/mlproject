@@ -1,0 +1,6 @@
+pandas
+numpy
+seaborn
+## We can directly install using setup.py or we can activate setup.py while running requirements.py file to build packages
+## Below line will automatically trigger setup.py file
+-e .
